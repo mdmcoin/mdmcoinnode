@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/moedasdigitais/mdmcoin/actions" target="_blank">
-    <img alt="Checks status" src="https://badgen.net/github/checks/moedasdigitais/mdmcoin?cache=600"  />
+    <img alt="Checks status" src="https://badgen.net/github/checks/mdmcoin/mdmcoinnode?cache=600"  />
   </a>
   <a href="https://github.com/wavesplatform/Waves/releases" target="_blank">
-    <img alt="Downloads" src="https://badgen.net/github/assets-dl/moedasdigitais/mdmcoin?color=blue" />
+    <img alt="Downloads" src="https://badgen.net/github/assets-dl/mdmcoin/mdmcoinnode?color=blue" />
   </a>
 
   <br/>
@@ -49,18 +49,18 @@ Linux systems:
 ```bash
 sudo apt-get update
 sudo apt-get install openjdk-8-jre
-java -jar node/target/waves-all*.jar path/to/config/waves-{network}.conf
+java -jar node/target/mdm-all*.jar path/to/config/mdm.conf
 ```
 
 Mac systems (assuming already installed homebrew):
 ```bash
 brew cask install adoptopenjdk/openjdk/adoptopenjdk8
-java -jar node/target/waves-all*.jar path/to/config/waves-{network}.conf
+java -jar node/target/mdm-all*.jar path/to/config/mdm.conf
 ```
 
 Windows systems (assuming already installed OpenJDK 8):
 ```bash
-java -jar node/target/waves-all*.jar path/to/config/waves-{network}.conf
+java -jar node/target/mdm-all*.jar path/to/config/mdm.conf
 ```
 
 Using docker, follow the [official image documentation](https://hub.docker.com/r/wavesplatform/wavesnode).
