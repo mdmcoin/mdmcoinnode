@@ -4,7 +4,7 @@
   <a href="https://github.com/moedasdigitais/mdmcoin/actions" target="_blank">
     <img alt="Checks status" src="https://badgen.net/github/checks/mdmcoin/mdmcoinnode?cache=600"  />
   </a>
-  <a href="https://github.com/wavesplatform/Waves/releases" target="_blank">
+  <a href="https://github.com/mdmcoin/mdmcoinnode/releases" target="_blank">
     <img alt="Downloads" src="https://badgen.net/github/assets-dl/mdmcoin/mdmcoinnode?color=blue" />
   </a>
 
