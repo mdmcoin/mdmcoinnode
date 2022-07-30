@@ -27,7 +27,6 @@ You can use it to build your own decentralized applications. Waves provides full
 
 
 
-
 MDMCoin node is a host connected to the blockchain network with the following functions:
 
 - Processing and validation of [transactions](https://docs.waves.tech/en/blockchain/transaction/transaction-validation)
@@ -44,7 +43,7 @@ A quick introduction of the minimal setup you need to get a running node.
 
 *Prerequisites:*
 - configuration file for a needed network from [here](https://github.com/wavesplatform/Waves/tree/HEAD/node)
-- `waves-all*.jar` file from [releases](https://github.com/wavesplatform/Waves/releases) 
+- `mdm-all*.jar` file from [releases](https://github.com/wavesplatform/Waves/releases) 
 
 Linux systems:
 ```bash
@@ -179,18 +178,15 @@ Please follow the [code of conduct](./CODE_OF_CONDUCT.md) during communication w
 
 ## ℹ️ Support (get help)
 
-Keep up with the latest news and articles, and find out all about events happening on the [Waves Protocol](https://waves.tech/).
 
-- [Telegram Dev Chat](https://t.me/waves_ride_dapps_dev)
-- [Waves Blog](https://medium.com/wavesprotocol)
+- [Telegram Dev Chat](https://t.me/mdmcoin)
+
 
 ## ⛓ Links
 
-- [Documentation](https://docs.waves.tech/)
-- Blockchain clients for Mainnet: [Waves Exchange](https://waves.exchange/), [Waves FX](https://github.com/wavesfx), [SIGN app](https://www.sign-web.app/)
-- Blockchain clients for Testnet: [Waves Exchange](https://testnet.waves.exchange/)
-- Blockchain Explorer: [Mainnet](https://wavesexplorer.com/), [Testnet](https://testnet.wavesexplorer.com/), [Stagenet](https://stagenet.wavesexplorer.com/) 
-- [Ride Online IDE](https://waves-ide.com/)
+- [Documentation](https://docs.mdmcoin.com/)
+
+
 
 ## 📝 Licence
 
