@@ -42,8 +42,8 @@ Learn more about Waves Node in the [documentation](https://docs.waves.tech/en/wa
 A quick introduction of the minimal setup you need to get a running node. 
 
 *Prerequisites:*
-- configuration file for a needed network from [here](https://github.com/wavesplatform/Waves/tree/HEAD/node)
-- `mdm-all*.jar` file from [releases](https://github.com/wavesplatform/Waves/releases) 
+- configuration file for a needed network from [here](https://github.com/mdmcoin/mdmcoinnode/tree/HEAD/node)
+- `mdm-all*.jar` file from [releases](https://github.com/mdmcoin/mdmcoinnode/releases) 
 
 Linux systems:
 ```bash
@@ -63,17 +63,16 @@ Windows systems (assuming already installed OpenJDK 8):
 java -jar node/target/mdm-all*.jar path/to/config/mdm.conf
 ```
 
-Using docker, follow the [official image documentation](https://hub.docker.com/r/wavesplatform/wavesnode).
 
-> More details on how to install a node for different platforms you can [find in the documentation](https://docs.waves.tech/en/waves-node/how-to-install-a-node/how-to-install-a-node). 
+> More details on how to install a node for different platforms you can [find in the documentation](https://docs.mdmcoin.com). 
 
 ## 🔧 Configuration
 
-The best starting point to understand available configuration parameters is [this article](https://docs.waves.tech/en/waves-node/node-configuration).
+The best starting point to understand available configuration parameters is [this article](https://docs.mdmcoin.com).
 
-The easiest way to start playing around with configurations is to use default configuration files for different networks; they're available in [network-defaults.conf](./node/src/main/resources/network-defaults.conf).
 
-Logging configuration with all available levels and parameters is described [here](https://docs.waves.tech/en/waves-node/logging-configuration).
+
+Logging configuration with all available levels and parameters is described [here](https://docs.mdmcoin.com).
 
 ## 👨‍💻 Development
 
@@ -99,7 +98,7 @@ Please follow the SBT installation instructions depending on your platform ([Lin
 *2. Clone this repo*
 
 ```bash
-git clone https://github.com/wavesplatform/Waves.git
+git clone https://github.com/mdmcoin/mdmcoinnode.git
 cd Waves
 ```
 
