@@ -42,7 +42,7 @@ Learn more about Waves Node in the [documentation](https://docs.waves.tech/en/wa
 A quick introduction of the minimal setup you need to get a running node. 
 
 *Prerequisites:*
-- configuration file for a needed network from [here](https://github.com/mdmcoin/mdmcoinnode/tree/HEAD/node)
+- configuration file for a needed network `mdm.conf`
 - `mdm-all*.jar` file from [releases](https://github.com/mdmcoin/mdmcoinnode/releases) 
 
 Linux systems:
