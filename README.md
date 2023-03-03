@@ -11,11 +11,9 @@
   <br/>
 
   <a href="https://twitter.com/mdmcoin" target="_blank">
-    <img alt="Twitter: Waves Tech" src="https://badgen.net/twitter/follow/mdinvestnl?icon=twitter&label=follow%20on%20Twitter" />
+    <img alt="Twitter: MDMCOIN" src="https://badgen.net/twitter/follow/mdmcoin?icon=twitter&label=follow%20on%20Twitter" />
   </a>
-  <a href="https://medium.com/wavesprotocol" target="_blank">
-    <img alt="Medium: Waves Tech" src="https://badgen.net/runkit/msmolyakov/get-medium-followers?icon=medium&cache=86400" />
-  </a>
+
   <a href="https://t.me/mdmcoin" target="_blank">
     <img alt="Telegram" src="https://badgen.net/badge/icon/mdmcoin?icon=telegram&label=Telegram"/>
   </a>
