@@ -25,16 +25,6 @@ You can use it to build your own decentralized applications. Waves provides full
 
 
 
-MDMCoin node is a host connected to the blockchain network with the following functions:
-
-- Processing and validation of [transactions](https://docs.waves.tech/en/blockchain/transaction/transaction-validation)
-- Generation and storage of [blocks](https://docs.waves.tech/en/blockchain/block/)
-- Network communication with [other nodes](https://docs.waves.tech/en/blockchain/blockchain/#node)
-- [REST API](https://docs.waves.tech/en/waves-node/node-api/)
-- [Extensions](https://docs.waves.tech/en/waves-node/extensions/) management
-
-Learn more about Waves Node in the [documentation](https://docs.waves.tech/en/waves-node/).
-
 ## 🚀️ Getting started
 
 A quick introduction of the minimal setup you need to get a running node. 
