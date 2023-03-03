@@ -1,4 +1,4 @@
-<h1 align="center">🔷 MDMCOIN Blockchain Node</h1>
+<h1 align="center"> 🚀️ MDMCOIN Blockchain Node</h1>
 
 <p align="center">
   <a href="https://github.com/moedasdigitais/mdmcoin/actions" target="_blank">
@@ -10,9 +10,7 @@
 
   <br/>
 
-  <a href="https://twitter.com/mdmcoin" target="_blank">
-    <img alt="Twitter: MDMCOIN" src="https://badgen.net/twitter/follow/mdmcoin?icon=twitter&label=follow%20on%20Twitter" />
-  </a>
+
 
   <a href="https://t.me/mdmcoin" target="_blank">
     <img alt="Telegram" src="https://badgen.net/badge/icon/mdmcoin?icon=telegram&label=Telegram"/>
@@ -25,7 +23,7 @@ You can use it to build your own decentralized applications. Waves provides full
 
 
 
-## 🚀️ Getting started
+##  Getting started
 
 A quick introduction of the minimal setup you need to get a running node. 
 
